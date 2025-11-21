@@ -2,58 +2,59 @@
 
 🚗🛠️ Online Vehicle Spare Parts Management System
 
-A complete web-based platform built to simplify and organize vehicle spare parts operations across multiple user roles. The system ensures smooth workflows by providing dedicated dashboards for Admins, Managers, Suppliers, and Customers.
+A complete web-based platform designed to streamline and organize vehicle spare parts operations across multiple roles. The system ensures smooth workflows and efficient handling of inventory, orders, and user interactions.
 
 🔧 Project Overview
 
-This system supports the entire spare parts management process—from inventory and supplier handling to customer orders and sales tracking. Each user role is given clear responsibilities through structured modules and secured role-based access.
+The system manages the full spare parts lifecycle—from inventory tracking and supplier coordination to customer ordering and sales reporting. Role-based dashboards ensure each user has clear responsibilities and secure access.
 
 ✨ Key Features
-Admin Panel
+🛡️ Admin Panel
 
-Manage user accounts and roles
+👥 Manage all user roles (Admins, Managers, Suppliers, Customers)
 
-Add, update, and remove spare parts and categories
+🗂️ Add, update, delete spare parts & categories
 
-Handle overall system configuration
+⚙️ Full control over permissions and system settings
 
-Manager Dashboard (My Contribution)
+📊 Manager Dashboard (My Contribution — Management Module)
 
-I developed the Management Module, which provides Managers with powerful tools to oversee system operations efficiently.
-My key responsibilities and features include:
+I developed the Management Module, enabling Managers to oversee the system’s operational activities effectively.
 
-Managing inventory: updating spare parts, adjusting stock, and monitoring item availability
+My responsibilities and features include:
 
-Handling orders: viewing order details, updating order statuses, and processing requests
+  📦 Inventory Management: update items, adjust stock, and monitor availability
 
-Generating and viewing reports such as sales summaries and activity logs
+  📝 Order Handling: view details, update statuses, process customer requests
 
-Monitoring supplier interactions and ensuring smooth coordination between suppliers and the system
+  📈 Report Generation: access sales summaries and operational insights
 
-Supporting overall workflow by enabling managers to respond quickly to operational updates and data changes
+  🔗 Supplier Coordination: monitor supplier actions and ensure smooth data flow
 
-This module ensures organized operations, clear visibility, and smooth communication among all user roles.
+  🔍 System Monitoring: provide visibility into ongoing operations and activities
 
-Supplier Dashboard
+This module provides organized control, clear visibility, and strong workflow management for smooth system operations.
 
-Add spare parts with pricing and specifications
+🏭 Supplier Dashboard
 
-Update stock and product details
+   Add spare parts with specifications & pricing
 
-Respond to order requests and provide quotations
+   Update stock levels and product details
 
-User Dashboard
+   Respond to order requests and provide quotations
 
-Browse available parts
+🛒 User Dashboard
 
-Place and track orders
+   Browse spare parts
 
-Manage profile and order history
+   Place and track orders
+
+   Manage user profile and order history
 
 🛠️ Tech Stack
 
-Frontend: HTML, Tailwind CSS, JavaScript
+   Frontend: HTML, Tailwind CSS, JavaScript
 
-Backend: Java
+   Backend: Java
 
-Database: SQL
+   Database: SQL
